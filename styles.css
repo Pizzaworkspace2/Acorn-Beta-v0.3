@@ -8,5 +8,8 @@
 .button1 {
   background-image: url('assets/button1.png');
   background-size: cover;
+}
+
+h3 {
   font-family: acorncaps;
 }
