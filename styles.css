@@ -10,10 +10,11 @@
   background-size: cover;
 }
 
-h2, h3 {
+h2 {
   font-family: acorncaps;
   font-size: 48px
 }
+
 h1 {
   font-family: acorncaps;
   font-size: 96px ;
