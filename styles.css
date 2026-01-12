@@ -8,6 +8,8 @@
 .button1 {
   background-image: url('assets/button1.png');
   background-size: cover;
+  height: 100px
+  width: 500px
 }
 
 h2 {
@@ -23,7 +25,7 @@ h1 {
 #them {
   background-color: dimgray;
   height: 400px;
-  width: 100px;
+  width: 200px;
   padding: 10px;
   border-radius: 8px;
 }
