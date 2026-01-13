@@ -1,13 +1,7 @@
-[
-  {
-    "id": 1,
-    "en": "Dirt",
-    "texture": "assets/add-texture",
-    "type": "block",
-  },
+
   [
   {
-    "id": 2,
+    "id": 1,
     "en": "Log",
     "texture": "assets/log_item.png",
     "type": "block",
