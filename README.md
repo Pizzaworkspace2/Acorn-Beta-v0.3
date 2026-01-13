@@ -8,3 +8,4 @@
 **?**
 ## No chess game anymore
 ## Make items not blocks
+## i added a log item
