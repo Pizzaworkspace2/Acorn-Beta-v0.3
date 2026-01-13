@@ -29,6 +29,7 @@ h1 {
   padding: 10px;
   border-radius: 8px;
   user-select: none;
+  margin-right: 20px;
 }
 
 body {
@@ -42,4 +43,11 @@ body {
   background-image: url('assets/button1hover.png');
   background-size: cover;
 }
-  
+
+#chardisplay {
+  height: 400px;
+  width: 200px;
+  padding: 10px;
+  border-radius: 8px;
+  user-select: none;
+}
