@@ -12,6 +12,13 @@ const play = document.getElementById('play');
     characters.style.display = 'block';
 
   });
+  
+ const freddy = document.getElementById('freddy');
+ const chardisplay = document.getElementById('chardisplay');
+
+  freddy.addEventListener('click', function() {
+    chardisplay.style.background = 'assets/Freddy.png';
+    });
 });
     
   
