@@ -19,6 +19,13 @@ const play = document.getElementById('play');
   freddy.addEventListener('click', function() {
     chardisplay.style.background = 'url("assets/Freddy.png")';
     });
+  document.getElementById('gameframe').style.animationPlayState = 'paused';
+  //start running
+  document.addEventListener('keydown', function(event) {
+    if(event.key === 'w') {
+       document.getElementById('gameframe').style.animationPlayState = 'running';
+    }
+  });
 });
     
   
