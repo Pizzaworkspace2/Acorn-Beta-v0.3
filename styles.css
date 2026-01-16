@@ -58,6 +58,10 @@ body {
   user-select: none;
 }
 
+#characters {
+  display: flex;
+}
+
 @keyframes panorama {
         0% {
           background-position: 0;
