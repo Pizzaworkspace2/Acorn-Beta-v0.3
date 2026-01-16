@@ -7,3 +7,4 @@
 ## its packyb
 ## keep working on panorama like image for a map
 ## got him
+## i added the map
